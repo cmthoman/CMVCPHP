@@ -1,0 +1,244 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"con",
+				"container-fluid"
+			],
+			[
+				"col",
+				"col-md-offset-3"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"font",
+				"font-weight"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 104.0,
+		"last_filter": "Package Control: install",
+		"selected_items":
+		[
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/Dev/Web Apps/CMVC/webroot/index.php",
+		"/D/Dev/Web Apps/CMVC/index.php",
+		"/D/Dev/Web Apps/VCSO Inventory App/vendor/cakephp/cakephp/src/Routing/Route/RedirectRoute.php",
+		"/D/Dev/Web Apps/VCSO Inventory App/vendor/cakephp/cakephp/src/Routing/DispatcherFactory.php",
+		"/D/Dev/Web Apps/VCSO Inventory App/vendor/cakephp/cakephp/src/Routing/RouteBuilder.php",
+		"/D/Dev/Web Apps/VCSO Inventory App/vendor/cakephp/cakephp/src/Routing/Middleware/RoutingMiddleware.php",
+		"/D/Dev/Web Apps/VCSO Inventory App/vendor/cakephp/cakephp/src/Core/App.php",
+		"/D/Dev/Web Apps/VCSO Inventory App/vendor/cakephp/cakephp/src/Routing/Dispatcher.php",
+		"/D/Dev/Web Apps/VCSO Inventory App/vendor/cakephp/cakephp/src/Core/ClassLoader.php",
+		"/D/Dev/Web Apps/VCSO Inventory App/vendor/cakephp/cakephp/config/config.php",
+		"/D/Dev/Web Apps/VCSO Inventory App/vendor/cakephp/cakephp/config/bootstrap.php",
+		"/D/Dev/Web Apps/VCSO Inventory App/vendor/cakephp/cakephp/src/basics.php",
+		"/D/Dev/Web Apps/VCSO Inventory App/vendor/cakephp/cakephp/src/Routing/Router.php",
+		"/D/Dev/Web Apps/VCSO Inventory App/vendor/cakephp/cakephp/src/Routing/Route/InflectedRoute.php",
+		"/D/Dev/Web Apps/VCSO Inventory App/config/routes.php",
+		"/D/Dev/Web Apps/VCSO Inventory App/vendor/cakephp/cakephp/src/Database/TypeInterface.php",
+		"/D/Dev/Web Apps/VCSO Inventory App/vendor/cakephp/cakephp/src/Database/ExpressionInterface.php",
+		"/D/Dev/Web Apps/VCSO Inventory App/src/Model/Table/WorkOrdersTable.php",
+		"/D/Dev/Web Apps/VCSO Inventory App/vendor/cakephp/cakephp/src/Database/Connection.php",
+		"/D/Dev/Web Apps/VCSO Inventory App/bin/cake.php",
+		"/D/Dev/Web Apps/VCSO Inventory App/src/Controller/AppController.php",
+		"/D/Dev/Web Apps/VCSO Inventory App/src/Application.php",
+		"/D/Dev/Web Apps/VCSO Inventory App/src/Shell/ConsoleShell.php",
+		"/D/Dev/Web Apps/VCSO Inventory App/src/Model/Entity/Network.php",
+		"/D/Dev/Web Apps/VCSO Inventory App/src/Model/Entity/Disposition.php",
+		"/C/Users/Chris/Downloads/BB-Parking/Models/Parking/VehicleDetectModel.php",
+		"/C/Users/Chris/Downloads/BB-Parking/Controllers/Parking/VehicleDetectController.php",
+		"/D/Dev/Web Apps/VCSO Inventory App/src/Model/Entity/OperatingSystem.php",
+		"/D/Dev/Web Apps/Courtney/webroot/css/bootstrap-overrides.css",
+		"/D/Dev/Web Apps/Courtney/config/routes.php",
+		"/D/Dev/Web Apps/Courtney/webroot/css/custom-buttons.css",
+		"/D/Dev/Web Apps/Courtney/webroot/css/fonts.css",
+		"/D/Dev/Web Apps/Courtney/src/Template/Pages/contact.ctp",
+		"/D/Dev/Web Apps/Courtney/src/Template/Pages/resume.ctp",
+		"/D/Dev/Web Apps/Courtney/src/Template/Pages/gallery.ctp",
+		"/D/Dev/Web Apps/Courtney/src/Template/Pages/home.ctp",
+		"/C/Users/Chris/AppData/Local/Temp/fz3temp-2/footer.php",
+		"/C/Users/Chris/AppData/Local/Temp/fz3temp-2/template-home.php",
+		"/C/Users/Chris/AppData/Local/Temp/fz3temp-2/index.php",
+		"/D/Dev/Web Apps/Courtney/webroot/css/bootstrap.css",
+		"/C/Users/Chris/AppData/Local/Temp/Temp1_bootstrap.zip/bootstrap/css/bootstrap-responsive.css",
+		"/D/Dev/Web Apps/Courtney/config/app.php",
+		"/D/Dev/Web Apps/Courtney2/webroot/CSS/base.css",
+		"/D/Dev/Web Apps/Game Portal Project/config/database.php",
+		"/D/Dev/Web Apps/VCSO Inventory App/config/app.default.php",
+		"/D/Dev/Web Apps/Game Portal Project/.gitignore"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			">\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"machines",
+				"src\\Template\\Machines\\index.ctp"
+			],
+			[
+				"locations",
+				"src\\Controller\\LocationsController.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 209.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
