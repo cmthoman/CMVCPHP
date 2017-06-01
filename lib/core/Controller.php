@@ -20,6 +20,7 @@ class Controller
 		if(file_exists("../app/model/$model.php"))
 		{
 			require_once "../app/model/$model.php";
+			return new $model();
 		}else{
 			self::$eh->componentTrace("Model: $model", false);
 		}
