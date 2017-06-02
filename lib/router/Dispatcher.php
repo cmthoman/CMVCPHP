@@ -19,7 +19,7 @@ class Dispatcher
 		obtained through .htaccess mod_rewrite*/
 		$url = $this->parseURL($_GET['url']);
 		
-		/*Assume that the first element of the returned $url array denotes
+		/*Assume that the first element of the returned $url array specifies
 		the controller requested. Check if the controller file exists in
 		the app/controller folder. If it does, load it via require_once 
 		and unset $url[0]. If it doesn't, send an error to the error handler.*/
@@ -32,7 +32,7 @@ class Dispatcher
 			$this->eh->componentTrace("Controller: $url[0]", false);
 		} 
 
-		/*Assume the second element of the returned $url array denotes the
+		/*Assume the second element of the returned $url array specifies the
 		method belonging to the first $url array element's controller. If
 		it does, call the method. If it doesn't, send an error to the error
 		handler*/
